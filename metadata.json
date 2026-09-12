@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix MPLADS VigilAI",
+  "description": "AI-Powered MPLADS Anomaly Detection \u0026 Audit Prioritization platform for Smart India Hackathon 2026 (SIH26102).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
